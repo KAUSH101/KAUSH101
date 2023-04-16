@@ -4,7 +4,7 @@
 <h4>
 Hello!  my name is Kaushik Kumar and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
 </h4>
-<img align="center" alt="Coding" width="100%" height="360px" style="text-align:center" src="[https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)">
+<img align="center" alt="Coding" width="100%" height="360px" style="text-align:center" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KAUSH101&label=Profile%20views&color=0e75b6&style=flat" alt="Kaushik" /> </p> -->
 
